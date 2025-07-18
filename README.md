@@ -1,4 +1,4 @@
-# Zen To Do App
+# Zen To Do
 
 <p align="center">
   <strong>Um app de to do voltado para a simplicidade e foco.</strong>
